@@ -1,1 +1,2 @@
-This is the base folder of the entire directory structure
+This is the base folder of the entire directory structure.
+This folder resides on the master branch
