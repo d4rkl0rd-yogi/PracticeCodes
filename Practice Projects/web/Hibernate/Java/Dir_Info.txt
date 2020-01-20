@@ -1,0 +1,1 @@
+This is the base folder for the Spring Framework Java web applications using Hibernate and belongs to the WebApplications branch
