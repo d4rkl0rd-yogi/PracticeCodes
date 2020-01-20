@@ -1,0 +1,1 @@
+This directory is for Android Console Applications and part of ConsoleApplications branch
