@@ -1,0 +1,1 @@
+This is the base folder for the Spring Framework web applications and belongs to the WebApplications branch
