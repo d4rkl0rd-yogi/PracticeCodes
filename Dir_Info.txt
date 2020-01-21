@@ -1,2 +1,4 @@
 This is the base folder of the entire directory structure.
 This folder resides on the master branch
+
+P.S. Note: This folder resides on Desktop as Practice Project Repository. It is a buffer to build, destroy or modify the directory structure or add branches to the repository, so do all the structural changes to the repository from that folder.
